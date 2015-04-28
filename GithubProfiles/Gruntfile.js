@@ -4,9 +4,9 @@ module.exports = function(grunt){
     jshint: {
       all: ['Gruntfile.js', 'src/**/*.js', 'spec/**/*.js']
     },
-    jasmine {
+    jasmine: {
       src: 'src/**/*.js',
-      options {
+      options: {
         specs:'spec/*Spec.js',
         helpers: 'spec/*Helper.js'
       }

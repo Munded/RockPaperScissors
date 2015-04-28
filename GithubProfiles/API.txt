@@ -1,0 +1,15 @@
+API
+  Application Programming Interface
+    "exposing an interface"
+    API is the 'buttons'
+    controlls interaction with app and outside world
+
+CRUD
+  Create - Post
+  Read - Get
+  Update - Put
+  Destroy - Destroy
+
+
+  APIs can allow for selection for what information is available
+  RESTful apis have a standard path - REST ----> READUP
